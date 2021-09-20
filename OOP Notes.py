@@ -1,5 +1,5 @@
 '''
-Object Oriented Programming (OOP)
+Ch. 10 Object Oriented Programming (OOP)
 - objects have both attributes and methods
     - attributes describe
     - methods perform operations and functions on attributes
@@ -19,6 +19,14 @@ Object Oriented Programming (OOP)
         - "self" ensures that you only perform methods on that specific instance
         - this function shows you the number of attributes within the class
 - the __str__ method displays the object's state
+- UML diagram (Unified Modeling Language): standard diagrams for graphically depicting object oriented systems
+
+Ch. 11 Inheritance
+- inheritance: many objects are a specialized version of more generalized objects
+    - "Is a" Relationship = exists when one object is a specialized version of another object
+    (Specialized objects have all of the characteristics of the general object plus other unique characteristics)
+        - Superclass = a general class (base class)
+        - Subclass = a specialized class (derived class)
 
 
 '''
