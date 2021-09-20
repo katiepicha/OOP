@@ -5,7 +5,7 @@ class RetailItem:
         self.__units = units
         self.__price = price
 
-    def set_description(self,description):
+    def set_description(self, description):
         self.__description = description
 
     def set_units(self,units):
@@ -14,11 +14,11 @@ class RetailItem:
     def set_price(self,price):
         self.__price = price
 
-    def get_description(self,description):
+    def get_description(self):
         return self.__description
 
-    def get_units(self,units):
+    def get_units(self):
         return self.__units
 
-    def get_price(self,price):
+    def get_price(self):
         return self.__price
